@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "description": "Quiz Patente Multilingua - Italian driving license practice quiz with Italian, English, Urdu, and Pashto translations.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Quiz Patente 2026 Multilingua",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "QUIZPATENTE",
+  "start_url": "https://signal-asset-integra-g9iq.bolt.host/",
+  "theme_color": "#0066cc",
+  "icons": [
+    {
+      "src": "https://signal-asset-integra-g9iq.bolt.host/favicon.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://bolt.new/static/og_default.png",
+      "type": "image/png",
+      "sizes": "1200x628"
+    },
+    {
+      "src": "https://signal-asset-integra-g9iq.bolt.host/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "id": "com.attakhan.quizpatente"
+}
